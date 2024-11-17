@@ -1,5 +1,5 @@
 # 💻 About Me:
-🔍 I am front-end developer <br>🎒 I am student at Istanbul Gelisim University
+🔍 I am front-end developer
 
 
 ## 🌐 Socials:
